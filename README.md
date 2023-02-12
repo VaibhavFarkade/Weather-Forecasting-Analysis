@@ -20,6 +20,4 @@ Weather prediction is one of the most certainly required information in all over
 
 > PowerBI (For Visualization) 
 
-
-
 The first module required us to clean the dataset using pandas and query it using SQL to gain insights from the database. 
