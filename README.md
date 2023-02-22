@@ -104,3 +104,8 @@ For module 1, you must submit 4 files as mentioned below in the submission tab a
 - A power bi file (.pbix)
 
 - A Youtube video link consists of a screen-recorded solution of the designed dashboard.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Quering Dataset using SQL : https://youtu.be/7pB1U8lP_KA
+
+Visualisation using PowerBI : https://youtu.be/QW3ICwIvpKk
